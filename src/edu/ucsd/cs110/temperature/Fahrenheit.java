@@ -10,6 +10,15 @@ public class Fahrenheit extends Temperature {
     }
 
 
+    @Override
+    public Temperature toCelsius() {
+        return null;
+    }
+
+    @Override
+    public Temperature toFahrenheit() {
+        return null;
+    }
 
     public String toString()
     {
