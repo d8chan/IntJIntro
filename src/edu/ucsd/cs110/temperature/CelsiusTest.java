@@ -42,6 +42,3 @@ public class CelsiusTest {
         assertEquals(212, convert.getValue(), delta);
     }
 }
-    a. Repeat the entire process using the Celsius class to generate the CelsiusTest, and copy-paste
-        the below code into CelsiusTest.java:
-        j. Save this
